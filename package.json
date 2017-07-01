@@ -1,0 +1,11 @@
+{
+  "name": "comics-jfd",
+  "version": "0.0.0",
+  "main": "index.js",
+  "author": "Kennedy Rose <kennedy@kennedyrose.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "crawl-comic-db": "kennedyrose/crawl-comic-db",
+    "json-fragmented-database": "kennedyrose/json-fragmented-database"
+  }
+}
