@@ -1,14 +1,25 @@
 'use strict'
 const crawler = require('crawl-comic-db')
 const db = require('json-fragmented-database')
+const dir = './test'
 
 module.exports = () => {
+	db.getLastId({
+			dir: dir
+		})
+		.then(crawl)
+		.catch(console.error)
+}
+
+function crawl(stopId){
 	crawler({
 			verbose: true,
 			userId: '311694',
+			stopId: stopId,
 			cb: (data, done) => {
+				console.log('Saving...')
 				db.save({
-					dir: './test',
+					dir: dir,
 					data: [ data ],
 					done: done
 				})
