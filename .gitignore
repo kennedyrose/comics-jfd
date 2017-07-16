@@ -15,6 +15,7 @@ dev
 out
 dist
 .next
+test
 
 # Temporary
 temp
