@@ -127,9 +127,9 @@ core-util-is@~1.0.0:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/core-util-is/-/core-util-is-1.0.2.tgz#b5fd54220aa2bc5ab57aab7140c940754503c1a7"
 
-crawl-comic-db@kennedyrose/crawl-comic-db#v0.0.3:
-  version "0.0.3"
-  resolved "https://codeload.github.com/kennedyrose/crawl-comic-db/tar.gz/ddf001c2b242fd85311a7728fa824d3d729f7f5d"
+crawl-comic-db@kennedyrose/crawl-comic-db#v0.0.4:
+  version "0.0.4"
+  resolved "https://codeload.github.com/kennedyrose/crawl-comic-db/tar.gz/a9370936bc3e33cfb7a0f18c697683ee4dfa555a"
   dependencies:
     nightmare "^2.10.0"
 

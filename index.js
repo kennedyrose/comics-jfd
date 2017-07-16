@@ -6,10 +6,11 @@ module.exports = () => {
 	crawler({
 			verbose: true,
 			userId: '311694',
-			cb: data => {
-				db.saveSync({
+			cb: (data, done) => {
+				db.save({
 					dir: './test',
-					data: [ data ]
+					data: [ data ],
+					done: done
 				})
 			}
 		})
