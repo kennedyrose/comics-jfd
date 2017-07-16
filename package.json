@@ -5,7 +5,7 @@
   "author": "Kennedy Rose <kennedy@kennedyrose.com>",
   "license": "MIT",
   "devDependencies": {
-    "crawl-comic-db": "kennedyrose/crawl-comic-db#v0.0.2",
+    "crawl-comic-db": "kennedyrose/crawl-comic-db#v0.0.3",
     "json-fragmented-database": "kennedyrose/json-fragmented-database"
   },
   "dependencies": {}

@@ -5,14 +5,15 @@ const db = require('json-fragmented-database')
 module.exports = () => {
 	crawler({
 			verbose: true,
-			userId: '311694'
+			userId: '311694',
+			cb: data => {
+				db.saveSync({
+					dir: './test',
+					data: [ data ]
+				})
+			}
 		})
-		.then(data => {
-			db.save({
-				dir: './test',
-				data: data
-			})
-		})
+		.then(() => console.log('Done!'))
 		.catch(console.error)
 }
 
