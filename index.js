@@ -1,7 +1,7 @@
 'use strict'
 const crawler = require('crawl-comic-db')
 const db = require('json-fragmented-database')
-const dir = './test'
+const dir = './data'
 
 module.exports = () => {
 	db.getLastId({
@@ -12,6 +12,7 @@ module.exports = () => {
 }
 
 function crawl(stopId){
+	console.log(`Crawling until: ${stopId}`)
 	crawler({
 			verbose: true,
 			userId: '311694',

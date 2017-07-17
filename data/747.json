@@ -1,0 +1,302 @@
+[
+	{
+		"id": "11403011",
+		"issue": "7A",
+		"publishDate": "Oct 28, 2015",
+		"publisher": "Oni Press ",
+		"readDate": "May 15, 2017",
+		"series": "Rick and Morty",
+		"title": "",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/86/86_419066_0_RickandMorty7A.jpg"
+	},
+	{
+		"id": "11403022",
+		"issue": "3A",
+		"publishDate": "May 2013",
+		"publisher": "Marvel Comics ",
+		"readDate": "May 15, 2017",
+		"series": "Uncanny X-Men, Vol. 3",
+		"title": "Avengers vs. Uncanny X-Men Go!",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/49/49_326905_0_UncannyXMenVol33A.jpg"
+	},
+	{
+		"id": "11403021",
+		"issue": "6",
+		"publishDate": "Jul 2008",
+		"publisher": "IDW Publishing ",
+		"readDate": "May 15, 2017",
+		"series": "Locke & Key: Welcome to Lovecraft",
+		"title": "Chapter 6",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/1a/1a_189114_0_.jpg"
+	},
+	{
+		"id": "11403020",
+		"issue": "5",
+		"publishDate": "Jun 2008",
+		"publisher": "IDW Publishing ",
+		"readDate": "May 15, 2017",
+		"series": "Locke & Key: Welcome to Lovecraft",
+		"title": "Chapter 5",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/01/01_186236_0_LockeKey5.jpg"
+	},
+	{
+		"id": "11403019",
+		"issue": "3A",
+		"publishDate": "Apr 2008",
+		"publisher": "IDW Publishing ",
+		"readDate": "May 15, 2017",
+		"series": "Locke & Key: Welcome to Lovecraft",
+		"title": "Chapter 3",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/98/98_180182_0_LockeKey3.jpg"
+	},
+	{
+		"id": "11403018",
+		"issue": "4",
+		"publishDate": "May 2008",
+		"publisher": "IDW Publishing ",
+		"readDate": "May 15, 2017",
+		"series": "Locke & Key: Welcome to Lovecraft",
+		"title": "Chapter 4",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/b5/b5_183465_0_LockeKey4WelcometoLovecraftCha.jpg"
+	},
+	{
+		"id": "11403028",
+		"issue": "5",
+		"publishDate": "Aug 2005",
+		"publisher": "Marvel Comics ",
+		"readDate": "May 15, 2017",
+		"series": "Young Avengers, Vol. 1",
+		"title": "Sidekicks, Part Five",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/9e/9e_1047_0_YoungAvengers5SidekicksPartFiv.jpg"
+	},
+	{
+		"id": "11403027",
+		"issue": "4",
+		"publishDate": "Jul 2005",
+		"publisher": "Marvel Comics ",
+		"readDate": "May 15, 2017",
+		"series": "Young Avengers, Vol. 1",
+		"title": "Sidekicks, Part Four",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/15/15_1046_0_YoungAvengers4SidekicksPartFou.jpg"
+	},
+	{
+		"id": "11403026",
+		"issue": "3",
+		"publishDate": "Jun 2005",
+		"publisher": "Marvel Comics ",
+		"readDate": "May 15, 2017",
+		"series": "Young Avengers, Vol. 1",
+		"title": "Sidekicks, Part Three",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/4b/4b_1045_0_YoungAvengers3SidekicksPartThr.jpg"
+	},
+	{
+		"id": "11403025",
+		"issue": "9A",
+		"publishDate": "Dec 23, 2015",
+		"publisher": "Oni Press ",
+		"readDate": "May 15, 2017",
+		"series": "Rick and Morty",
+		"title": "",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/93/93_425114_0_RickandMorty9A.jpg"
+	},
+	{
+		"id": "11403024",
+		"issue": "1A",
+		"publishDate": "Apr 2005",
+		"publisher": "Marvel Comics ",
+		"readDate": "May 15, 2017",
+		"series": "Young Avengers, Vol. 1",
+		"title": "Sidekicks, Part One",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/40/40_135743_0_YoungAvengers1SidekicksPartOne.jpg"
+	},
+	{
+		"id": "11403023",
+		"issue": "2",
+		"publishDate": "May 2005",
+		"publisher": "Marvel Comics ",
+		"readDate": "May 15, 2017",
+		"series": "Young Avengers, Vol. 1",
+		"title": "Sidekicks, Part Two",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/a0/a0_1044_0_YoungAvengers2SidekicksPartTwo.jpg"
+	},
+	{
+		"id": "11403034",
+		"issue": "18",
+		"publishDate": "Sep 1963",
+		"publisher": "Marvel Comics ",
+		"readDate": "May 15, 2017",
+		"series": "Fantastic Four, Vol. 1",
+		"title": "A Skrull Walks Among Us!",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/f5/f5_40616_0_FantasticFourVol118ASkrullWalk.jpg"
+	},
+	{
+		"id": "11403033",
+		"issue": "19",
+		"publishDate": "Oct 1963",
+		"publisher": "Marvel Comics ",
+		"readDate": "May 15, 2017",
+		"series": "Fantastic Four, Vol. 1",
+		"title": "Prisoners of the Pharaoh!",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/93/93_40617_0_FantasticFourVol119Prisonersof.jpg"
+	},
+	{
+		"id": "11403032",
+		"issue": "20",
+		"publishDate": "Nov 1963",
+		"publisher": "Marvel Comics ",
+		"readDate": "May 15, 2017",
+		"series": "Fantastic Four, Vol. 1",
+		"title": "The Mysterious Molecule Man!",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/5f/5f_40618_0_FantasticFourVol120TheMysterio.jpg"
+	},
+	{
+		"id": "11403031",
+		"issue": "8",
+		"publishDate": "Dec 2005",
+		"publisher": "Marvel Comics ",
+		"readDate": "May 15, 2017",
+		"series": "Young Avengers, Vol. 1",
+		"title": "Secret Identities, Part Two",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/04/04_129478_0_YoungAvengers8SecretIdentities.jpg"
+	},
+	{
+		"id": "11403030",
+		"issue": "7",
+		"publishDate": "Oct 2005",
+		"publisher": "Marvel Comics ",
+		"readDate": "May 15, 2017",
+		"series": "Young Avengers, Vol. 1",
+		"title": "Secret Identities, Part One",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/da/da_129477_0_YoungAvengers7SecretIdentities.jpg"
+	},
+	{
+		"id": "11403029",
+		"issue": "6",
+		"publishDate": "Sep 2005",
+		"publisher": "Marvel Comics ",
+		"readDate": "May 15, 2017",
+		"series": "Young Avengers, Vol. 1",
+		"title": "Sidekicks, Part Six",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/4d/4d_1048_0_YoungAvengers6SidekicksPartSix.jpg"
+	},
+	{
+		"id": "11403040",
+		"issue": "12",
+		"publishDate": "Mar 1963",
+		"publisher": "Marvel Comics ",
+		"readDate": "May 15, 2017",
+		"series": "Fantastic Four, Vol. 1",
+		"title": "The Incredible Hulk",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/5a/5a_40610_0_FantasticFourVol112TheIncredib.jpg"
+	},
+	{
+		"id": "11403039",
+		"issue": "13",
+		"publishDate": "Apr 1963",
+		"publisher": "Marvel Comics ",
+		"readDate": "May 15, 2017",
+		"series": "Fantastic Four, Vol. 1",
+		"title": "The Red Ghost And His Indescribable Super-Apes!",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/61/61_40611_0_FantasticFourVol113TheRedGhost.jpg"
+	},
+	{
+		"id": "11403038",
+		"issue": "14",
+		"publishDate": "May 1963",
+		"publisher": "Marvel Comics ",
+		"readDate": "May 15, 2017",
+		"series": "Fantastic Four, Vol. 1",
+		"title": "Sub-Mariner, and the Merciless Puppet Master",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/53/53_40612_0_FantasticFourVol114SubMarinera.jpg"
+	},
+	{
+		"id": "11403037",
+		"issue": "15",
+		"publishDate": "Jun 1963",
+		"publisher": "Marvel Comics ",
+		"readDate": "May 15, 2017",
+		"series": "Fantastic Four, Vol. 1",
+		"title": "The Mad Thinker And His Awesome Android!",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/6c/6c_40613_0_FantasticFourVol115TheMadThink.jpg"
+	},
+	{
+		"id": "11403036",
+		"issue": "16",
+		"publishDate": "Jul 1963",
+		"publisher": "Marvel Comics ",
+		"readDate": "May 15, 2017",
+		"series": "Fantastic Four, Vol. 1",
+		"title": "The Micro-World Of Doctor Doom!",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/92/92_40614_0_FantasticFourVol116TheMicroWor.jpg"
+	},
+	{
+		"id": "11403035",
+		"issue": "17",
+		"publishDate": "Aug 1963",
+		"publisher": "Marvel Comics ",
+		"readDate": "May 15, 2017",
+		"series": "Fantastic Four, Vol. 1",
+		"title": "Defeated By Doctor Doom!",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/43/43_40615_0_FantasticFourVol117DefeatedByD.jpg"
+	},
+	{
+		"id": "11403046",
+		"issue": "6",
+		"publishDate": "Sep 1962",
+		"publisher": "Marvel Comics ",
+		"readDate": "May 15, 2017",
+		"series": "Fantastic Four, Vol. 1",
+		"title": "Captives of the Deadly Duo!",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/e3/e3_40604_0_FantasticFourVol16Captivesofth.jpg"
+	},
+	{
+		"id": "11403045",
+		"issue": "7",
+		"publishDate": "Oct 1962",
+		"publisher": "Marvel Comics ",
+		"readDate": "May 15, 2017",
+		"series": "Fantastic Four, Vol. 1",
+		"title": "Prisoners of Kurrgo, Master of Planet X",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/bf/bf_40605_0_FantasticFourVol17PrisonersofK.jpg"
+	},
+	{
+		"id": "11403044",
+		"issue": "8",
+		"publishDate": "Nov 1962",
+		"publisher": "Marvel Comics ",
+		"readDate": "May 15, 2017",
+		"series": "Fantastic Four, Vol. 1",
+		"title": "Prisoners Of The Puppet Master!",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/10/10_40606_0_FantasticFourVol18Prisonersoft.jpg"
+	},
+	{
+		"id": "11403043",
+		"issue": "9",
+		"publishDate": "Dec 1962",
+		"publisher": "Marvel Comics ",
+		"readDate": "May 15, 2017",
+		"series": "Fantastic Four, Vol. 1",
+		"title": "The End Of The Fantastic Four!",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/29/29_40607_0_FantasticFourVol19TheEndoftheF.jpg"
+	},
+	{
+		"id": "11403042",
+		"issue": "10",
+		"publishDate": "Jan 1963",
+		"publisher": "Marvel Comics ",
+		"readDate": "May 15, 2017",
+		"series": "Fantastic Four, Vol. 1",
+		"title": "The Return Of Doctor Doom!",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/b3/b3_40608_0_FantasticFourVol110TheReturnof.jpg"
+	},
+	{
+		"id": "11403041",
+		"issue": "11",
+		"publishDate": "Feb 1963",
+		"publisher": "Marvel Comics ",
+		"readDate": "May 15, 2017",
+		"series": "Fantastic Four, Vol. 1",
+		"title": "A Visit With The Fantastic Four / The Impossible Man",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/85/85_40609_0_FantasticFourVol111TheImpossib.jpg"
+	}
+]

@@ -1,0 +1,302 @@
+[
+	{
+		"id": "11337768",
+		"issue": "14",
+		"publishDate": "Jan 2005",
+		"publisher": "DC Comics ",
+		"readDate": "May 06, 2017",
+		"series": "Superman / Batman",
+		"title": "Absolute Power, Chapter One: I Pledge Allegiance...",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/66/66_117507_0_SupermanBatman1415AbsolutePowe.jpg"
+	},
+	{
+		"id": "11337767",
+		"issue": "15",
+		"publishDate": "Feb 2005",
+		"publisher": "DC Comics ",
+		"readDate": "May 06, 2017",
+		"series": "Superman / Batman",
+		"title": "Absolute Power, Chapter Two: What Price Freedom..?",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/1a/1a_117508_0_SupermanBatman1525AbsolutePowe.jpg"
+	},
+	{
+		"id": "11337766",
+		"issue": "16",
+		"publishDate": "Feb 2005",
+		"publisher": "DC Comics ",
+		"readDate": "May 06, 2017",
+		"series": "Superman / Batman",
+		"title": "Absolute Power, Chapter Three: When Time Goes Asunder...",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/ea/ea_117509_0_SupermanBatman16AbsolutePower.jpg"
+	},
+	{
+		"id": "11337765",
+		"issue": "17",
+		"publishDate": "Mar 2005",
+		"publisher": "DC Comics ",
+		"readDate": "May 06, 2017",
+		"series": "Superman / Batman",
+		"title": "Absolute Power, Chapter Four: A World Without Batman...",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/05/05_117510_0_SupermanBatman17.jpg"
+	},
+	{
+		"id": "11337764",
+		"issue": "18",
+		"publishDate": "Apr 06, 2005",
+		"publisher": "DC Comics ",
+		"readDate": "May 06, 2017",
+		"series": "Superman / Batman",
+		"title": "Absolute Power, Chapter Six: Thy Will Be Done...",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/97/97_117511_0_SupermanBatman18.jpg"
+	},
+	{
+		"id": "11337775",
+		"issue": "7",
+		"publishDate": "Apr 2004",
+		"publisher": "DC Comics ",
+		"readDate": "May 06, 2017",
+		"series": "Superman / Batman",
+		"title": "Protege",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/ad/ad_117498_0_SupermanBatman7Protege.jpg"
+	},
+	{
+		"id": "11337774",
+		"issue": "8A",
+		"publishDate": "May 2004",
+		"publisher": "DC Comics ",
+		"readDate": "May 06, 2017",
+		"series": "Superman / Batman",
+		"title": "The Supergirl From Krypton, Part One: Alone",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/c1/c1_117499_0_SupermanBatman8AAlone.jpg"
+	},
+	{
+		"id": "11337773",
+		"issue": "9",
+		"publishDate": "Jun 2004",
+		"publisher": "DC Comics ",
+		"readDate": "May 06, 2017",
+		"series": "Superman / Batman",
+		"title": "The Supergirl From Krypton, Part Two: Visitor",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/5b/5b_117500_0_SupermanBatman9Visitor.jpg"
+	},
+	{
+		"id": "11337772",
+		"issue": "10A",
+		"publishDate": "Jul 2004",
+		"publisher": "DC Comics ",
+		"readDate": "May 06, 2017",
+		"series": "Superman / Batman",
+		"title": "The Supergirl From Krypton, Part Three: The Warrior",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/71/71_117502_0_SupermanBatman10AWarrior.jpg"
+	},
+	{
+		"id": "11337771",
+		"issue": "11",
+		"publishDate": "Aug 2004",
+		"publisher": "DC Comics ",
+		"readDate": "May 06, 2017",
+		"series": "Superman / Batman",
+		"title": "The Supergirl From Krypton, Part Four: Prisoner",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/b9/b9_117503_0_SupermanBatman11Prisoner.jpg"
+	},
+	{
+		"id": "11337770",
+		"issue": "12",
+		"publishDate": "Sep 2004",
+		"publisher": "DC Comics ",
+		"readDate": "May 06, 2017",
+		"series": "Superman / Batman",
+		"title": "The Supergirl From Krypton, Part Five: Traitor",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/18/18_117504_0_SupermanBatman12.jpg"
+	},
+	{
+		"id": "11337781",
+		"issue": "1A",
+		"publishDate": "Oct 2003",
+		"publisher": "DC Comics ",
+		"readDate": "May 06, 2017",
+		"series": "Superman / Batman",
+		"title": "The World's Finest, Part 1",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/0a/0a_117491_0_SupermanBatman116TheWorldsFine.jpg"
+	},
+	{
+		"id": "11337780",
+		"issue": "2",
+		"publishDate": "Nov 2003",
+		"publisher": "DC Comics ",
+		"readDate": "May 06, 2017",
+		"series": "Superman / Batman",
+		"title": "The World's Finest, Part 2: Early Warning",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/ea/ea_117493_0_SupermanBatman226TheWorldsFine.jpg"
+	},
+	{
+		"id": "11337779",
+		"issue": "3",
+		"publishDate": "Dec 2003",
+		"publisher": "DC Comics ",
+		"readDate": "May 06, 2017",
+		"series": "Superman / Batman",
+		"title": "The World's Finest, Part 3: Running Wild",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/b2/b2_117494_0_SupermanBatman3.jpg"
+	},
+	{
+		"id": "11337778",
+		"issue": "4",
+		"publishDate": "Jan 2004",
+		"publisher": "DC Comics ",
+		"readDate": "May 06, 2017",
+		"series": "Superman / Batman",
+		"title": "The World's Finest, Part 4: Battle On",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/f6/f6_117495_0_SupermanBatman4.jpg"
+	},
+	{
+		"id": "11337777",
+		"issue": "5",
+		"publishDate": "Feb 2004",
+		"publisher": "DC Comics ",
+		"readDate": "May 06, 2017",
+		"series": "Superman / Batman",
+		"title": "The World's Finest, Part 5: State of Siege",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/3e/3e_117496_0_SupermanBatman5TheWorldsFinest.jpg"
+	},
+	{
+		"id": "11337776",
+		"issue": "6",
+		"publishDate": "Mar 2004",
+		"publisher": "DC Comics ",
+		"readDate": "May 06, 2017",
+		"series": "Superman / Batman",
+		"title": "The World's Finest, Part 6: Final Countdown",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/15/15_117497_0_SupermanBatman6TheWorldsFinest.jpg"
+	},
+	{
+		"id": "11337834",
+		"issue": "35",
+		"publishDate": "Sep 2006",
+		"publisher": "Marvel Comics (MAX Comics)",
+		"readDate": "May 06, 2017",
+		"series": "The Punisher, Vol. 7 (2004-2009)",
+		"title": "Barracuda, Part Five",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/b4/b4_131330_0_ThePunisherVol535BarracudaPart.jpg"
+	},
+	{
+		"id": "11337833",
+		"issue": "36",
+		"publishDate": "Oct 2006",
+		"publisher": "Marvel Comics (MAX Comics)",
+		"readDate": "May 06, 2017",
+		"series": "The Punisher, Vol. 7 (2004-2009)",
+		"title": "Barracuda, Part Six",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/8f/8f_132955_0_PunisherVol736PartSix.jpg"
+	},
+	{
+		"id": "11337839",
+		"issue": "30",
+		"publishDate": "Apr 2006",
+		"publisher": "Marvel Comics (MAX Comics)",
+		"readDate": "May 06, 2017",
+		"series": "The Punisher, Vol. 7 (2004-2009)",
+		"title": "The Slavers, Conclusion",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/40/40_131991_0_PunisherVol730TheSlaversConclu.jpg"
+	},
+	{
+		"id": "11337838",
+		"issue": "31",
+		"publishDate": "May 2006",
+		"publisher": "Marvel Comics (MAX Comics)",
+		"readDate": "May 06, 2017",
+		"series": "The Punisher, Vol. 7 (2004-2009)",
+		"title": "Barracuda, Part One",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/c7/c7_131901_0_PunisherVol731BarracudaPart1.jpg"
+	},
+	{
+		"id": "11337837",
+		"issue": "32",
+		"publishDate": "Jun 2006",
+		"publisher": "Marvel Comics (MAX Comics)",
+		"readDate": "May 06, 2017",
+		"series": "The Punisher, Vol. 7 (2004-2009)",
+		"title": "Barracuda, Part Two",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/00/00_129027_0_ThePunisherVol532BarracudaPart.jpg"
+	},
+	{
+		"id": "11337836",
+		"issue": "33",
+		"publishDate": "Jul 2006",
+		"publisher": "Marvel Comics (MAX Comics)",
+		"readDate": "May 06, 2017",
+		"series": "The Punisher, Vol. 7 (2004-2009)",
+		"title": "Barracuda, Part Three",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/c3/c3_129028_0_ThePunisherVol533BarracudaPart.jpg"
+	},
+	{
+		"id": "11337835",
+		"issue": "34",
+		"publishDate": "Aug 2006",
+		"publisher": "Marvel Comics (MAX Comics)",
+		"readDate": "May 06, 2017",
+		"series": "The Punisher, Vol. 7 (2004-2009)",
+		"title": "Barracuda, Part Four",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/22/22_131903_0_PunisherVol734BarracudaPart4.jpg"
+	},
+	{
+		"id": "11337844",
+		"issue": "25",
+		"publishDate": "Nov 2005",
+		"publisher": "Marvel Comics (MAX Comics)",
+		"readDate": "May 06, 2017",
+		"series": "The Punisher, Vol. 7 (2004-2009)",
+		"title": "The Slavers, Part 1",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/f2/f2_83319_0_PunisherVol725Part1.jpg"
+	},
+	{
+		"id": "11337843",
+		"issue": "26",
+		"publishDate": "Dec 2005",
+		"publisher": "Marvel Comics (MAX Comics)",
+		"readDate": "May 06, 2017",
+		"series": "The Punisher, Vol. 7 (2004-2009)",
+		"title": "The Slavers, Part 2",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/c7/c7_83320_0_PunisherVol726Part2.jpg"
+	},
+	{
+		"id": "11337842",
+		"issue": "27",
+		"publishDate": "Jan 2006",
+		"publisher": "Marvel Comics (MAX Comics)",
+		"readDate": "May 06, 2017",
+		"series": "The Punisher, Vol. 7 (2004-2009)",
+		"title": "The Slavers, Part 3",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/8d/8d_83321_0_PunisherVol727Part3.jpg"
+	},
+	{
+		"id": "11337841",
+		"issue": "28",
+		"publishDate": "Feb 2006",
+		"publisher": "Marvel Comics (MAX Comics)",
+		"readDate": "May 06, 2017",
+		"series": "The Punisher, Vol. 7 (2004-2009)",
+		"title": "The Slavers, Part 4",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/1e/1e_131902_0_PunisherVol728TheSlaversPart4.jpg"
+	},
+	{
+		"id": "11337840",
+		"issue": "29",
+		"publishDate": "Mar 2006",
+		"publisher": "Marvel Comics (MAX Comics)",
+		"readDate": "May 06, 2017",
+		"series": "The Punisher, Vol. 7 (2004-2009)",
+		"title": "The Slavers, Part 5",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/7d/7d_131904_0_PunisherVol729TheSlaversPart5.jpg"
+	},
+	{
+		"id": "11337850",
+		"issue": "19",
+		"publishDate": "Jun 2005",
+		"publisher": "Marvel Comics (MAX Comics)",
+		"readDate": "May 06, 2017",
+		"series": "The Punisher, Vol. 7 (2004-2009)",
+		"title": "Up Is Down And Black Is White, Part One",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/e7/e7_83313_0_PunisherVol719PartOne.jpg"
+	}
+]
