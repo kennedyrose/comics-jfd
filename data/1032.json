@@ -148,5 +148,155 @@
 		"series": "Ultimatum: X-Men Requiem",
 		"title": "Ultimatum - Requiem",
 		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/04/04_220381_0_UltimatumXMenRequiem1Requiem.jpg"
+	},
+	{
+		"id": "11745318",
+		"issue": "1",
+		"publishDate": "Sep 2009",
+		"publisher": "Marvel Comics ",
+		"readDate": "Jun 24, 2017",
+		"series": "Ultimatum: Fantastic Four Requiem",
+		"title": "Ultimatum - Requiem",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/5e/5e_220380_0_UltimatumFantasticFourRequiem1.jpg"
+	},
+	{
+		"id": "11745324",
+		"issue": "2",
+		"publishDate": "Sep 2009",
+		"publisher": "Marvel Comics ",
+		"readDate": "Jun 24, 2017",
+		"series": "Ultimatum: Spider-Man Requiem",
+		"title": "Ultimatum ",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/16/16_219702_0_UltimatumSpiderManRequiem2.jpg"
+	},
+	{
+		"id": "11745323",
+		"issue": "1A",
+		"publishDate": "Aug 2009",
+		"publisher": "Marvel Comics ",
+		"readDate": "Jun 24, 2017",
+		"series": "Ultimatum: Spider-Man Requiem",
+		"title": "Ultimatum ",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/43/43_215453_0_UltimatumSpiderManRequiem1.jpg"
+	},
+	{
+		"id": "11749598",
+		"issue": "4",
+		"publishDate": "Apr 2010",
+		"publisher": "Marvel Comics ",
+		"readDate": "Jun 24, 2017",
+		"series": "Ultimate Comics Armor Wars",
+		"title": "Ultimate Armor Wars, Part 4",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/77/77_233578_0_Part4.jpg"
+	},
+	{
+		"id": "11749597",
+		"issue": "3",
+		"publishDate": "Jan 2010",
+		"publisher": "Marvel Comics ",
+		"readDate": "Jun 24, 2017",
+		"series": "Ultimate Comics Armor Wars",
+		"title": "Ultimate Armor Wars, Part 3",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/b9/b9_229448_0_Part3.jpg"
+	},
+	{
+		"id": "11749596",
+		"issue": "2",
+		"publishDate": "Dec 2009",
+		"publisher": "Marvel Comics ",
+		"readDate": "Jun 24, 2017",
+		"series": "Ultimate Comics Armor Wars",
+		"title": "Ultimate Armor Wars, Part 2",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/1c/1c_226456_0_Part2.jpg"
+	},
+	{
+		"id": "11749595",
+		"issue": "1A",
+		"publishDate": "Nov 2009",
+		"publisher": "Marvel Comics ",
+		"readDate": "Jun 24, 2017",
+		"series": "Ultimate Comics Armor Wars",
+		"title": "Ultimate Armor Wars, Part 1",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/04/04_223290_0_Part1.jpg"
+	},
+	{
+		"id": "11754565",
+		"issue": "5",
+		"publishDate": "Aug 2011",
+		"publisher": "Marvel Comics ",
+		"readDate": "Jun 25, 2017",
+		"series": "Ultimate X",
+		"title": "Ultimate X: Origins, Chapter 5: What Is Ultimate X?",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/ca/ca_261819_0_UltimateX5Chapter5WhatIsUltima.jpg"
+	},
+	{
+		"id": "11754564",
+		"issue": "4",
+		"publishDate": "May 2011",
+		"publisher": "Marvel Comics ",
+		"readDate": "Jun 25, 2017",
+		"series": "Ultimate X",
+		"title": "Ultimate X: Origins, Chapter Four: What Ever Happened to Liz Allen?",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/a6/a6_261818_0_UltimateX4ChapterFourWhatEverH.jpg"
+	},
+	{
+		"id": "11754563",
+		"issue": "3",
+		"publishDate": "Aug 2010",
+		"publisher": "Marvel Comics ",
+		"readDate": "Jun 25, 2017",
+		"series": "Ultimate X",
+		"title": "Ultimate X: Origins, Chapter Three: Who or What is Derek Morgan?",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/2f/2f_244669_0_UltimateX3ChapterThreeWhoorWha.jpg"
+	},
+	{
+		"id": "11754562",
+		"issue": "2B",
+		"publishDate": "Jun 2010",
+		"publisher": "Marvel Comics ",
+		"readDate": "Jun 25, 2017",
+		"series": "Ultimate X",
+		"title": "Ultimate X: Origins, Chapter Two: Who is Karen Grant?",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/8a/8a_241493_0_UltimateComicsX2BChapterTwoWho.jpg"
+	},
+	{
+		"id": "11754561",
+		"issue": "2A",
+		"publishDate": "Jun 2010",
+		"publisher": "Marvel Comics ",
+		"readDate": "Jun 25, 2017",
+		"series": "Ultimate X",
+		"title": "Ultimate X: Origins, Chapter Two: Who is Karen Grant?",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/ce/ce_237307_0_UltimateX2ChapterTwoWhoisKaren.jpg"
+	},
+	{
+		"id": "11754560",
+		"issue": "1A",
+		"publishDate": "Apr 2010",
+		"publisher": "Marvel Comics ",
+		"readDate": "Jun 25, 2017",
+		"series": "Ultimate X",
+		"title": "Ultimate X: Origins, Chapter One: His Father's Son",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/eb/eb_233148_0_UltimateX1A.jpg"
+	},
+	{
+		"id": "11754567",
+		"issue": "8",
+		"publishDate": "Nov 2005",
+		"publisher": "Marvel Comics ",
+		"readDate": "Jun 25, 2017",
+		"series": "Runaways, Vol. 2",
+		"title": "Star-Crossed, Part Two",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/11/11_87991_0_Runawaysvol28.jpg"
+	},
+	{
+		"id": "11754566",
+		"issue": "7",
+		"publishDate": "Oct 2005",
+		"publisher": "Marvel Comics ",
+		"readDate": "Jun 25, 2017",
+		"series": "Runaways, Vol. 2",
+		"title": "Star-Crossed, Part One",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/c1/c1_87990_0_RunawaysVol27StarCrossed.jpg"
 	}
 ]
