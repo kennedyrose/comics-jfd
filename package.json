@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "Kennedy Rose <kennedy@kennedyrose.com>",
   "license": "MIT",
+  "scripts": {
+	  "start": "git pull origin master && node index && git add . && git commit -m 'Updated data'"
+  },
   "devDependencies": {
     "crawl-comic-db": "kennedyrose/crawl-comic-db#v0.0.4",
     "json-fragmented-database": "kennedyrose/json-fragmented-database"
