@@ -5,10 +5,11 @@
   "author": "Kennedy Rose <kennedy@kennedyrose.com>",
   "license": "MIT",
   "scripts": {
-	  "start": "git pull origin master && node index && git add . && git commit -m 'Updated data'"
+    "start": "git pull origin master && node index && git add . && git commit -m 'Updated data'"
   },
   "devDependencies": {
     "crawl-comic-db": "kennedyrose/crawl-comic-db#v0.0.4",
+    "execute-shell-promise": "^1.0.1",
     "json-fragmented-database": "kennedyrose/json-fragmented-database"
   },
   "dependencies": {}
