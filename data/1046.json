@@ -228,5 +228,75 @@
 		"series": "Ultimate Comics X-Men",
 		"title": "Chapter One",
 		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/be/be_288159_0_UltimateXMenVol21A.jpg"
+	},
+	{
+		"id": "12228522",
+		"issue": "1A",
+		"publishDate": "Apr 2014",
+		"publisher": "Marvel Comics ",
+		"readDate": "Aug 07, 2017",
+		"series": "She-Hulk, Vol. 3",
+		"title": "Motion",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/98/98_355352_0_Motion.jpg"
+	},
+	{
+		"id": "12228527",
+		"issue": "6",
+		"publishDate": "Jan 11, 2012",
+		"publisher": "Marvel Comics ",
+		"readDate": "Aug 07, 2017",
+		"series": "Ultimate Comics X-Men",
+		"title": "",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/8e/8e_295828_0_UltimateXMenVol26.jpg"
+	},
+	{
+		"id": "12228526",
+		"issue": "5",
+		"publishDate": "Dec 28, 2011",
+		"publisher": "Marvel Comics ",
+		"readDate": "Aug 07, 2017",
+		"series": "Ultimate Comics X-Men",
+		"title": "",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/20/20_294229_0_UltimateXMenVol25.jpg"
+	},
+	{
+		"id": "12228525",
+		"issue": "4",
+		"publishDate": "Dec 14, 2011",
+		"publisher": "Marvel Comics ",
+		"readDate": "Aug 07, 2017",
+		"series": "Ultimate Comics X-Men",
+		"title": "",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/28/28_294228_0_UltimateXMenVol24.jpg"
+	},
+	{
+		"id": "12228524",
+		"issue": "3",
+		"publishDate": "Nov 16, 2011",
+		"publisher": "Marvel Comics ",
+		"readDate": "Aug 07, 2017",
+		"series": "Ultimate Comics X-Men",
+		"title": "Chapter Three",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/8c/8c_291883_0_UltimateXMenVol23.jpg"
+	},
+	{
+		"id": "12228523",
+		"issue": "2A",
+		"publishDate": "May 2014",
+		"publisher": "Marvel Comics ",
+		"readDate": "Aug 07, 2017",
+		"series": "She-Hulk, Vol. 3",
+		"title": "...And?",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/e0/e0_358329_0_SheHulkVol32A.jpg"
+	},
+	{
+		"id": "12228531",
+		"issue": "8A",
+		"publishDate": "May 2012",
+		"publisher": "Marvel Comics ",
+		"readDate": "Aug 07, 2017",
+		"series": "Ultimate Comics Spider-Man, Vol. 2",
+		"title": "",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/5f/5f_299033_0_UltimateComicsSpiderManVol28A.jpg"
 	}
 ]
