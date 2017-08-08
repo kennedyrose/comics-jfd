@@ -98,5 +98,105 @@
 		"series": "Injustice: Gods Among Us - Year Two",
 		"title": "World's End",
 		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/10/10_377482_0_.jpg"
+	},
+	{
+		"id": "12234570",
+		"issue": "10",
+		"publishDate": "Jul 2012",
+		"publisher": "Marvel Comics ",
+		"readDate": "Aug 08, 2017",
+		"series": "Ultimate Comics Spider-Man, Vol. 2",
+		"title": "",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/6f/6f_303522_0_UltimateComicsSpiderManVol210.jpg"
+	},
+	{
+		"id": "12234573",
+		"issue": "12",
+		"publishDate": "Sep 2012",
+		"publisher": "Marvel Comics ",
+		"readDate": "Aug 08, 2017",
+		"series": "Ultimate Comics Spider-Man, Vol. 2",
+		"title": "",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/b3/b3_306614_0_UltimateComicsSpiderManVol212.jpg"
+	},
+	{
+		"id": "12234572",
+		"issue": "11",
+		"publishDate": "Aug 2012",
+		"publisher": "Marvel Comics ",
+		"readDate": "Aug 08, 2017",
+		"series": "Ultimate Comics Spider-Man, Vol. 2",
+		"title": "",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/ed/ed_305028_0_UltimateComicsSpiderManVol211.jpg"
+	},
+	{
+		"id": "12236499",
+		"issue": "1",
+		"publishDate": "Dec 2014",
+		"publisher": "DC Comics ",
+		"readDate": "Aug 08, 2017",
+		"series": "Injustice: Gods Among Us - Year Three",
+		"title": "Rose",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/fc/fc_379259_0_Rose.jpg"
+	},
+	{
+		"id": "12236498",
+		"issue": "20",
+		"publishDate": "Oct 2006",
+		"publisher": "Marvel Comics ",
+		"readDate": "Aug 08, 2017",
+		"series": "Runaways, Vol. 2",
+		"title": "Dead Means Dead, Chapter 2",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/a6/a6_135257_0_Runawaysv220.jpg"
+	},
+	{
+		"id": "12236502",
+		"issue": "1A",
+		"publishDate": "Jun 22, 2011",
+		"publisher": "IDW Publishing ",
+		"readDate": "Aug 08, 2017",
+		"series": "Locke & Key: Clockworks",
+		"title": "",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/7a/7a_278909_0_LockeKeyClockworks1A.jpg"
+	},
+	{
+		"id": "12236501",
+		"issue": "3",
+		"publishDate": "Jan 2015",
+		"publisher": "DC Comics ",
+		"readDate": "Aug 08, 2017",
+		"series": "Injustice: Gods Among Us - Year Three",
+		"title": "Xanadu",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/f5/f5_381345_0_Xanadu.jpg"
+	},
+	{
+		"id": "12236500",
+		"issue": "2",
+		"publishDate": "Dec 2014",
+		"publisher": "DC Comics ",
+		"readDate": "Aug 08, 2017",
+		"series": "Injustice: Gods Among Us - Year Three",
+		"title": "Gathering Forces",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/14/14_379260_0_GatheringForces.jpg"
+	},
+	{
+		"id": "12236503",
+		"issue": "4",
+		"publishDate": "Jan 2015",
+		"publisher": "DC Comics ",
+		"readDate": "Aug 08, 2017",
+		"series": "Injustice: Gods Among Us - Year Three",
+		"title": "Raven's Rescue; Ragman's Souls",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/1b/1b_381346_0_RavensRescue.jpg"
+	},
+	{
+		"id": "12236504",
+		"issue": "5",
+		"publishDate": "Feb 2015",
+		"publisher": "DC Comics ",
+		"readDate": "Aug 08, 2017",
+		"series": "Injustice: Gods Among Us - Year Three",
+		"title": "Dead Man",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/96/96_385085_0_.jpg"
 	}
 ]
