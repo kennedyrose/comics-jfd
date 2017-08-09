@@ -198,5 +198,75 @@
 		"series": "Injustice: Gods Among Us - Year Three",
 		"title": "Dead Man",
 		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/96/96_385085_0_.jpg"
+	},
+	{
+		"id": "12245852",
+		"issue": "5",
+		"publishDate": "",
+		"publisher": "",
+		"readDate": "Aug 09, 2017",
+		"series": "Doctor Strange / The Punisher: Magic Bullets",
+		"title": "",
+		"cover": "https://clzcomics.r.sizr.io/cloud/covers/lg/dc/dc_12245852_0_DoctorStrangeThePunisherMagicB_5.jpg"
+	},
+	{
+		"id": "12245924",
+		"issue": "7",
+		"publishDate": "Mar 2015",
+		"publisher": "DC Comics ",
+		"readDate": "Aug 09, 2017",
+		"series": "Injustice: Gods Among Us - Year Three",
+		"title": "For the Man Who's Lost Everything",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/53/53_388012_0_.jpg"
+	},
+	{
+		"id": "12245923",
+		"issue": "6",
+		"publishDate": "Feb 2015",
+		"publisher": "DC Comics ",
+		"readDate": "Aug 09, 2017",
+		"series": "Injustice: Gods Among Us - Year Three",
+		"title": "Secret Weapon",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/d8/d8_385086_0_SecretWeapon.jpg"
+	},
+	{
+		"id": "12245922",
+		"issue": "2A",
+		"publishDate": "Jun 2015",
+		"publisher": "Marvel Comics ",
+		"readDate": "Aug 09, 2017",
+		"series": "Star Wars: Kanan: The Last Padawan",
+		"title": "The Last Padawan, Book I, Part II",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/17/17_400188_0_ChapterTwoFlight.jpg"
+	},
+	{
+		"id": "12245921",
+		"issue": "1A",
+		"publishDate": "Jun 2015",
+		"publisher": "Marvel Comics ",
+		"readDate": "Aug 09, 2017",
+		"series": "Star Wars: Kanan: The Last Padawan",
+		"title": "The Last Padawan, Book I, Part I",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/be/be_397002_0_ChapterOneFight.jpg"
+	},
+	{
+		"id": "12245926",
+		"issue": "9",
+		"publishDate": "Apr 2015",
+		"publisher": "DC Comics ",
+		"readDate": "Aug 09, 2017",
+		"series": "Injustice: Gods Among Us - Year Three",
+		"title": "Assault on the Tower",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/9d/9d_392388_0_AssaultontheTower.jpg"
+	},
+	{
+		"id": "12245925",
+		"issue": "8",
+		"publishDate": "Mar 2015",
+		"publisher": "DC Comics ",
+		"readDate": "Aug 09, 2017",
+		"series": "Injustice: Gods Among Us - Year Three",
+		"title": "Awakenings",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/ff/ff_388013_0_Awakenings.jpg"
 	}
 ]
