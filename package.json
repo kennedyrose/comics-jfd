@@ -10,7 +10,7 @@
   "devDependencies": {
     "crawl-comic-db": "kennedyrose/crawl-comic-db#v0.0.4",
     "execute-shell-promise": "^1.0.1",
-    "json-fragmented-database": "kennedyrose/json-fragmented-database"
+    "json-fragmented-database": "kennedyrose/json-fragmented-database#v0.1.0"
   },
   "dependencies": {}
 }

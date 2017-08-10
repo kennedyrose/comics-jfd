@@ -445,6 +445,12 @@ json-fragmented-database@kennedyrose/json-fragmented-database:
   dependencies:
     fs-extra "^3.0.1"
 
+json-fragmented-database@kennedyrose/json-fragmented-database#v0.1.0:
+  version "0.1.0"
+  resolved "https://codeload.github.com/kennedyrose/json-fragmented-database/tar.gz/78913deae197896a9b9e3f59bd1efa6f7e0fa393"
+  dependencies:
+    fs-extra "^3.0.1"
+
 json-schema@0.2.3:
   version "0.2.3"
   resolved "https://registry.yarnpkg.com/json-schema/-/json-schema-0.2.3.tgz#b480c892e59a2f05954ce727bd3f2a4e882f9e13"
