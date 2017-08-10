@@ -188,5 +188,115 @@
 		"series": "Ultimate Comics Spider-Man, Vol. 1",
 		"title": "Spidey's 150th Anniversary Special",
 		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/dc/dc_260065_0_UltimateComicsSpiderMan150ASpi.jpg"
+	},
+	{
+		"id": "12084409",
+		"issue": "152",
+		"publishDate": "Mar 2011",
+		"publisher": "Marvel Comics ",
+		"readDate": "Jul 23, 2017",
+		"series": "Ultimate Comics Spider-Man, Vol. 1",
+		"title": "",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/93/93_265688_0_UltimateComicsSpiderMan152.jpg"
+	},
+	{
+		"id": "12084414",
+		"issue": "2",
+		"publishDate": "Nov 2010",
+		"publisher": "Marvel Comics ",
+		"readDate": "Jul 23, 2017",
+		"series": "Ultimate Avengers 3",
+		"title": "Blade versus the Avengers, Part Two",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/2b/2b_251860_0_UltimateAvengers32APartTwo.jpg"
+	},
+	{
+		"id": "12084413",
+		"issue": "1A",
+		"publishDate": "Oct 2010",
+		"publisher": "Marvel Comics ",
+		"readDate": "Jul 23, 2017",
+		"series": "Ultimate Avengers 3",
+		"title": "Blade versus the Avengers, Part One",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/a4/a4_249989_0_UltimateAvengers31APartOne.jpg"
+	},
+	{
+		"id": "12084412",
+		"issue": "155A",
+		"publishDate": "May 2011",
+		"publisher": "Marvel Comics ",
+		"readDate": "Jul 23, 2017",
+		"series": "Ultimate Comics Spider-Man, Vol. 1",
+		"title": "Death of Spider-Man - Prelude",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/73/73_265691_0_UltimateComicsSpiderMan155.jpg"
+	},
+	{
+		"id": "12084411",
+		"issue": "154A",
+		"publishDate": "Apr 2011",
+		"publisher": "Marvel Comics ",
+		"readDate": "Jul 23, 2017",
+		"series": "Ultimate Comics Spider-Man, Vol. 1",
+		"title": "Death of Spider-Man - Prelude",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/74/74_265690_0_UltimateComicsSpiderMan154APre.jpg"
+	},
+	{
+		"id": "12084410",
+		"issue": "153A",
+		"publishDate": "Apr 2011",
+		"publisher": "Marvel Comics ",
+		"readDate": "Jul 23, 2017",
+		"series": "Ultimate Comics Spider-Man, Vol. 1",
+		"title": "Death of Spider-Man ",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/f0/f0_265689_0_UltimateComicsSpiderMan153A.jpg"
+	},
+	{
+		"id": "12084420",
+		"issue": "157A",
+		"publishDate": "Jun 2011",
+		"publisher": "Marvel Comics ",
+		"readDate": "Jul 23, 2017",
+		"series": "Ultimate Comics Spider-Man, Vol. 1",
+		"title": "Death of Spider-Man ",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/49/49_270201_0_UltimateComicsSpiderMan157A.jpg"
+	},
+	{
+		"id": "12084419",
+		"issue": "156A",
+		"publishDate": "May 2011",
+		"publisher": "Marvel Comics ",
+		"readDate": "Jul 23, 2017",
+		"series": "Ultimate Comics Spider-Man, Vol. 1",
+		"title": "Death of Spider-Man ",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/90/90_265692_0_UltimateComicsSpiderMan156A.jpg"
+	},
+	{
+		"id": "12084418",
+		"issue": "6",
+		"publishDate": "Mar 2011",
+		"publisher": "Marvel Comics ",
+		"readDate": "Jul 23, 2017",
+		"series": "Ultimate Avengers 3",
+		"title": "Blade versus the Avengers, Part Six",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/75/75_269506_0_UltimateAvengers36PartSix.jpg"
+	},
+	{
+		"id": "12084417",
+		"issue": "5",
+		"publishDate": "Feb 2011",
+		"publisher": "Marvel Comics ",
+		"readDate": "Jul 23, 2017",
+		"series": "Ultimate Avengers 3",
+		"title": "Blade versus the Avengers, Part Five",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/1e/1e_263774_0_UltimateAvengers35PartFive.jpg"
+	},
+	{
+		"id": "12084416",
+		"issue": "4",
+		"publishDate": "Jan 2011",
+		"publisher": "Marvel Comics ",
+		"readDate": "Jul 23, 2017",
+		"series": "Ultimate Avengers 3",
+		"title": "Blade versus the Avengers, Part Four",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/45/45_260064_0_UltimateComicsAvengers34PartFo.jpg"
 	}
 ]
