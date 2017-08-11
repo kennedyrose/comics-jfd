@@ -133,6 +133,12 @@ crawl-comic-db@kennedyrose/crawl-comic-db#v0.0.4:
   dependencies:
     nightmare "^2.10.0"
 
+crawl-comic-db@kennedyrose/crawl-comic-db#v0.0.5:
+  version "0.0.5"
+  resolved "https://codeload.github.com/kennedyrose/crawl-comic-db/tar.gz/e4db32d1b8ab84a41416a57551fbfc950ead5779"
+  dependencies:
+    nightmare "^2.10.0"
+
 cryptiles@2.x.x:
   version "2.0.5"
   resolved "https://registry.yarnpkg.com/cryptiles/-/cryptiles-2.0.5.tgz#3bdfecdc608147c1c67202fa291e7dca59eaa3b8"
@@ -438,12 +444,6 @@ jsbn@~0.1.0:
 jsesc@^0.5.0:
   version "0.5.0"
   resolved "https://registry.yarnpkg.com/jsesc/-/jsesc-0.5.0.tgz#e7dee66e35d6fc16f710fe91d5cf69f70f08911d"
-
-json-fragmented-database@kennedyrose/json-fragmented-database:
-  version "1.0.0"
-  resolved "https://codeload.github.com/kennedyrose/json-fragmented-database/tar.gz/9e162d47fa8f95f70725b819bb0a831e1cd3f582"
-  dependencies:
-    fs-extra "^3.0.1"
 
 json-fragmented-database@kennedyrose/json-fragmented-database#v0.1.0:
   version "0.1.0"
