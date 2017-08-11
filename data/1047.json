@@ -268,5 +268,35 @@
 		"series": "Injustice: Gods Among Us - Year Three",
 		"title": "Awakenings",
 		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/ff/ff_388013_0_Awakenings.jpg"
+	},
+	{
+		"id": "12256618",
+		"issue": "21",
+		"publishDate": "Oct 2006",
+		"publisher": "Marvel Comics ",
+		"readDate": "Aug 10, 2017",
+		"series": "Runaways, Vol. 2",
+		"title": "Dead Means Dead, Conclusion",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/a0/a0_136323_0_RunawaysVol221DeadMeansDeadCon.jpg"
+	},
+	{
+		"id": "12256623",
+		"issue": "10",
+		"publishDate": "Jul 2012",
+		"publisher": "Marvel Comics ",
+		"readDate": "Aug 10, 2017",
+		"series": "Ultimate Comics: The Ultimates",
+		"title": "Two Cities. Two Worlds., Part Four",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/c2/c2_303523_0_UltimatesVol410.jpg"
+	},
+	{
+		"id": "12256622",
+		"issue": "9",
+		"publishDate": "Jun 2012",
+		"publisher": "Marvel Comics ",
+		"readDate": "Aug 10, 2017",
+		"series": "Ultimate Comics: The Ultimates",
+		"title": "Two Cities. Two Worlds., Part Three.",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/9c/9c_301224_0_UltimatesVol49.jpg"
 	}
 ]
