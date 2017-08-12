@@ -48,5 +48,115 @@
 		"series": "Ultimate Comics: The Ultimates",
 		"title": "Two Cities. Two Worlds., Part Five",
 		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/b9/b9_303524_0_PartFive.jpg"
+	},
+	{
+		"id": "12266870",
+		"issue": "22",
+		"publishDate": "Jan 2007",
+		"publisher": "Marvel Comics ",
+		"readDate": "Aug 11, 2017",
+		"series": "Runaways, Vol. 2",
+		"title": "Live Fast, Part 1",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/26/26_139185_0_RunawaysVol222LiveFastpart1.jpg"
+	},
+	{
+		"id": "12266871",
+		"issue": "23",
+		"publishDate": "Feb 2007",
+		"publisher": "Marvel Comics ",
+		"readDate": "Aug 11, 2017",
+		"series": "Runaways, Vol. 2",
+		"title": "Live Fast, Part 2",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/ce/ce_142024_0_RunawaysVol223LiveFastpart2.jpg"
+	},
+	{
+		"id": "12266872",
+		"issue": "3A",
+		"publishDate": "Aug 2015",
+		"publisher": "Marvel Comics ",
+		"readDate": "Aug 11, 2017",
+		"series": "Star Wars: Kanan: The Last Padawan",
+		"title": "The Last Padawan, The Last Padawan",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/96/96_403627_0_ChapterThreePivot.jpg"
+	},
+	{
+		"id": "12266873",
+		"issue": "4A",
+		"publishDate": "Sep 2015",
+		"publisher": "Marvel Comics ",
+		"readDate": "Aug 11, 2017",
+		"series": "Star Wars: Kanan: The Last Padawan",
+		"title": "The Last Padawan, The Last Padawan",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/b5/b5_407563_0_KananTheLastPadawan4A.jpg"
+	},
+	{
+		"id": "12266874",
+		"issue": "5",
+		"publishDate": "Oct 2015",
+		"publisher": "Marvel Comics ",
+		"readDate": "Aug 11, 2017",
+		"series": "Star Wars: Kanan: The Last Padawan",
+		"title": "The Last Padawan",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/8f/8f_410669_0_BookIPartV.jpg"
+	},
+	{
+		"id": "12266868",
+		"issue": "7A",
+		"publishDate": "Feb 15, 2012",
+		"publisher": "Marvel Comics ",
+		"readDate": "Aug 11, 2017",
+		"series": "Ultimate Comics X-Men",
+		"title": "",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/b7/b7_297596_0_UltimateXMenVol27A.jpg"
+	},
+	{
+		"id": "12266869",
+		"issue": "8",
+		"publishDate": "Feb 29, 2012",
+		"publisher": "Marvel Comics ",
+		"readDate": "Aug 11, 2017",
+		"series": "Ultimate Comics X-Men",
+		"title": "",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/a1/a1_297598_0_UltimateXMenVol28.jpg"
+	},
+	{
+		"id": "12266872",
+		"issue": "3A",
+		"publishDate": "Aug 2015",
+		"publisher": "Marvel Comics ",
+		"readDate": "Aug 11, 2017",
+		"series": "Star Wars: Kanan: The Last Padawan",
+		"title": "The Last Padawan, The Last Padawan",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/96/96_403627_0_ChapterThreePivot.jpg"
+	},
+	{
+		"id": "12266873",
+		"issue": "4A",
+		"publishDate": "Sep 2015",
+		"publisher": "Marvel Comics ",
+		"readDate": "Aug 11, 2017",
+		"series": "Star Wars: Kanan: The Last Padawan",
+		"title": "The Last Padawan, The Last Padawan",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/b5/b5_407563_0_KananTheLastPadawan4A.jpg"
+	},
+	{
+		"id": "12266874",
+		"issue": "5",
+		"publishDate": "Oct 2015",
+		"publisher": "Marvel Comics ",
+		"readDate": "Aug 11, 2017",
+		"series": "Star Wars: Kanan: The Last Padawan",
+		"title": "The Last Padawan",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/8f/8f_410669_0_BookIPartV.jpg"
+	},
+	{
+		"id": "12266868",
+		"issue": "7A",
+		"publishDate": "Feb 15, 2012",
+		"publisher": "Marvel Comics ",
+		"readDate": "Aug 11, 2017",
+		"series": "Ultimate Comics X-Men",
+		"title": "",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/b7/b7_297596_0_UltimateXMenVol27A.jpg"
 	}
 ]
