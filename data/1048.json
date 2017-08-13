@@ -158,5 +158,85 @@
 		"series": "Ultimate Comics X-Men",
 		"title": "",
 		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/b7/b7_297596_0_UltimateXMenVol27A.jpg"
+	},
+	{
+		"id": "12266872",
+		"issue": "3A",
+		"publishDate": "Aug 2015",
+		"publisher": "Marvel Comics ",
+		"readDate": "Aug 11, 2017",
+		"series": "Star Wars: Kanan: The Last Padawan",
+		"title": "The Last Padawan, The Last Padawan",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/96/96_403627_0_ChapterThreePivot.jpg"
+	},
+	{
+		"id": "12266873",
+		"issue": "4A",
+		"publishDate": "Sep 2015",
+		"publisher": "Marvel Comics ",
+		"readDate": "Aug 11, 2017",
+		"series": "Star Wars: Kanan: The Last Padawan",
+		"title": "The Last Padawan, The Last Padawan",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/b5/b5_407563_0_KananTheLastPadawan4A.jpg"
+	},
+	{
+		"id": "12266874",
+		"issue": "5",
+		"publishDate": "Oct 2015",
+		"publisher": "Marvel Comics ",
+		"readDate": "Aug 11, 2017",
+		"series": "Star Wars: Kanan: The Last Padawan",
+		"title": "The Last Padawan",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/8f/8f_410669_0_BookIPartV.jpg"
+	},
+	{
+		"id": "12274798",
+		"issue": "2A",
+		"publishDate": "Jan 2016",
+		"publisher": "Marvel Comics ",
+		"readDate": "Aug 12, 2017",
+		"series": "Doctor Strange, Vol. 4",
+		"title": "The Way of the Weird, Part Two",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/24/24_422023_0_PartTwo.jpg"
+	},
+	{
+		"id": "12274799",
+		"issue": "3A",
+		"publishDate": "Feb 2016",
+		"publisher": "Marvel Comics ",
+		"readDate": "Aug 12, 2017",
+		"series": "Doctor Strange, Vol. 4",
+		"title": "Eaters Of Magic",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/74/74_424198_0_EatersofMagic.jpg"
+	},
+	{
+		"id": "12274800",
+		"issue": "4A",
+		"publishDate": "Mar 2016",
+		"publisher": "Marvel Comics ",
+		"readDate": "Aug 12, 2017",
+		"series": "Doctor Strange, Vol. 4",
+		"title": "The Art of Puking Without Puking",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/79/79_427069_0_TheArtofPukingWithoutPuking.jpg"
+	},
+	{
+		"id": "12274801",
+		"issue": "10",
+		"publishDate": "Apr 2015",
+		"publisher": "DC Comics ",
+		"readDate": "Aug 12, 2017",
+		"series": "Injustice: Gods Among Us - Year Three",
+		"title": "Mysteries And Secrets",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/40/40_392389_0_MysteriesandSecrets.jpg"
+	},
+	{
+		"id": "12274797",
+		"issue": "13A",
+		"publishDate": "Apr 2017",
+		"publisher": "Oni Press ",
+		"readDate": "Aug 12, 2017",
+		"series": "Rick and Morty",
+		"title": "",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/66/66_437345_0_.jpg"
 	}
 ]
