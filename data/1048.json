@@ -238,5 +238,25 @@
 		"series": "Rick and Morty",
 		"title": "",
 		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/66/66_437345_0_.jpg"
+	},
+	{
+		"id": "12274801",
+		"issue": "10",
+		"publishDate": "Apr 2015",
+		"publisher": "DC Comics ",
+		"readDate": "Aug 12, 2017",
+		"series": "Injustice: Gods Among Us - Year Three",
+		"title": "Mysteries And Secrets",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/40/40_392389_0_MysteriesandSecrets.jpg"
+	},
+	{
+		"id": "12288579",
+		"issue": "9",
+		"publishDate": "May 2012",
+		"publisher": "Marvel Comics ",
+		"readDate": "Aug 14, 2017",
+		"series": "Ultimate Comics X-Men",
+		"title": "",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/47/47_299036_0_UltimateXMenVol29.jpg"
 	}
 ]
