@@ -258,5 +258,45 @@
 		"series": "Ultimate Comics X-Men",
 		"title": "",
 		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/47/47_299036_0_UltimateXMenVol29.jpg"
+	},
+	{
+		"id": "12315020",
+		"issue": "22A",
+		"publishDate": "Jul 19, 2017",
+		"publisher": "Archie Comic Publications ",
+		"readDate": "Aug 17, 2017",
+		"series": "Archie, Vol. 2",
+		"title": "Over the Edge",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/2c/2c_489577_0_Part3.jpg"
+	},
+	{
+		"id": "12315024",
+		"issue": "0A",
+		"publishDate": "Nov 2012",
+		"publisher": "DC Comics ",
+		"readDate": "Aug 17, 2017",
+		"series": "Batwoman, Vol. 1",
+		"title": "Interlude",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/49/49_312043_0_BatwomanVol120110A.jpg"
+	},
+	{
+		"id": "12315990",
+		"issue": "1A",
+		"publishDate": "Jul 2015",
+		"publisher": "DC Comics ",
+		"readDate": "Aug 17, 2017",
+		"series": "Injustice: Gods Among Us - Year Four",
+		"title": "The Gods Themselves",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/af/af_406462_0_InjusticeGodsAmongUsYearFour1.jpg"
+	},
+	{
+		"id": "12315991",
+		"issue": "2",
+		"publishDate": "Jul 2015",
+		"publisher": "DC Comics ",
+		"readDate": "Aug 17, 2017",
+		"series": "Injustice: Gods Among Us - Year Four",
+		"title": "Vengeance Is Mine",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/81/81_406463_0_.jpg"
 	}
 ]
