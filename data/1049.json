@@ -58,5 +58,45 @@
 		"series": "Runaways, Vol. 2",
 		"title": "Live Fast, The End",
 		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/21/21_143973_0_RunawaysVol224LiveFastTheEnd.jpg"
+	},
+	{
+		"id": "12596236",
+		"issue": "1A",
+		"publishDate": "May 04, 2011",
+		"publisher": "Archie Comic Publications ",
+		"readDate": "Sep 17, 2017",
+		"series": "Mega Man",
+		"title": "Let The Games Begin, Part One",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/ec/ec_270579_0_MegaMan1A.jpg"
+	},
+	{
+		"id": "12596237",
+		"issue": "2A",
+		"publishDate": "Jun 08, 2011",
+		"publisher": "Archie Comic Publications ",
+		"readDate": "Sep 17, 2017",
+		"series": "Mega Man",
+		"title": "Let The Games Begin, Part Two: Weapons Get!",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/80/80_274555_0_MegaMan2A.jpg"
+	},
+	{
+		"id": "12596238",
+		"issue": "3A",
+		"publishDate": "Jul 06, 2011",
+		"publisher": "Archie Comic Publications ",
+		"readDate": "Sep 17, 2017",
+		"series": "Mega Man",
+		"title": "Let The Games Begin, Part Three: Power Get!",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/d5/d5_278721_0_MegaMan3A.jpg"
+	},
+	{
+		"id": "12596239",
+		"issue": "4A",
+		"publishDate": "Aug 10, 2011",
+		"publisher": "Archie Comic Publications ",
+		"readDate": "Sep 17, 2017",
+		"series": "Mega Man",
+		"title": "Let The Games Begin, Part Four: Finale - Showdown Get!",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/c5/c5_282100_0_MegaMan4A.jpg"
 	}
 ]
