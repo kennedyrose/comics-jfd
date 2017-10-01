@@ -148,5 +148,25 @@
 		"series": "Mega Man",
 		"title": "Time Keeps on Slipping, Part Four: Duplicity",
 		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/a0/a0_292279_0_MegaMan8.jpg"
+	},
+	{
+		"id": "12692133",
+		"issue": "6",
+		"publishDate": "Oct 12, 2011",
+		"publisher": "Archie Comic Publications ",
+		"readDate": "Sep 28, 2017",
+		"series": "Mega Man",
+		"title": "Time Keeps on Slipping, Part Two: Unresolved Issues",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/97/97_288231_0_MegaMan6.jpg"
+	},
+	{
+		"id": "12692134",
+		"issue": "7",
+		"publishDate": "Nov 09, 2011",
+		"publisher": "Archie Comic Publications ",
+		"readDate": "Sep 28, 2017",
+		"series": "Mega Man",
+		"title": "Time Keeps on Slipping, Part Three: Reinforcements",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/7d/7d_290240_0_MegaMan7.jpg"
 	}
 ]
