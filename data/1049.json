@@ -178,5 +178,125 @@
 		"series": "Mega Man",
 		"title": "Time Keeps on Slipping, Part Two: Unresolved Issues",
 		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/97/97_288231_0_MegaMan6.jpg"
+	},
+	{
+		"id": "12819822",
+		"issue": "5A",
+		"publishDate": "Apr 2016",
+		"publisher": "Marvel Comics ",
+		"readDate": "Oct 15, 2017",
+		"series": "Doctor Strange, Vol. 4",
+		"title": "Pound of Flesh",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/56/56_430314_0_PoundofFlesh.jpg"
+	},
+	{
+		"id": "12819819",
+		"issue": "4A",
+		"publishDate": "Jul 2014",
+		"publisher": "Marvel Comics ",
+		"readDate": "Oct 15, 2017",
+		"series": "She-Hulk, Vol. 3",
+		"title": "The Zealous Advocate",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/c8/c8_364845_0_SheHulkVol34.jpg"
+	},
+	{
+		"id": "12819817",
+		"issue": "1A",
+		"publishDate": "Aug 2012",
+		"publisher": "Marvel Comics ",
+		"readDate": "Oct 15, 2017",
+		"series": "Spider-Men",
+		"title": "Chapter One",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/82/82_305031_0_SpiderMen1A.jpg"
+	},
+	{
+		"id": "12819818",
+		"issue": "2A",
+		"publishDate": "Aug 2012",
+		"publisher": "Marvel Comics ",
+		"readDate": "Oct 15, 2017",
+		"series": "Spider-Men",
+		"title": "Chapter Two",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/11/11_305034_0_SpiderMen2A.jpg"
+	},
+	{
+		"id": "12819823",
+		"issue": "3A",
+		"publishDate": "Sep 2012",
+		"publisher": "Marvel Comics ",
+		"readDate": "Oct 15, 2017",
+		"series": "Spider-Men",
+		"title": "Chapter Three",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/32/32_306624_0_SpiderMen3A.jpg"
+	},
+	{
+		"id": "12819824",
+		"issue": "4A",
+		"publishDate": "Oct 2012",
+		"publisher": "Marvel Comics ",
+		"readDate": "Oct 15, 2017",
+		"series": "Spider-Men",
+		"title": "Chapter Four",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/bd/bd_308768_0_SpiderMen4A.jpg"
+	},
+	{
+		"id": "12819825",
+		"issue": "5A",
+		"publishDate": "Nov 2012",
+		"publisher": "Marvel Comics ",
+		"readDate": "Oct 15, 2017",
+		"series": "Spider-Men",
+		"title": "Chapter Five",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/57/57_311867_0_SpiderMen5A.jpg"
+	},
+	{
+		"id": "12819820",
+		"issue": "6",
+		"publishDate": "Nov 2015",
+		"publisher": "Marvel Comics ",
+		"readDate": "Oct 15, 2017",
+		"series": "Star Wars: Kanan: The Last Padawan",
+		"title": "The Last Padawan, The Last Padawan",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/8c/8c_416234_0_Book1Epilogue.jpg"
+	},
+	{
+		"id": "12819821",
+		"issue": "7",
+		"publishDate": "Dec 2015",
+		"publisher": "Marvel Comics ",
+		"readDate": "Oct 15, 2017",
+		"series": "Star Wars: Kanan: The Last Padawan",
+		"title": "First Blood, First Blood",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/8b/8b_418163_0_FirstBlood.jpg"
+	},
+	{
+		"id": "12819814",
+		"issue": "10",
+		"publishDate": "Jun 2012",
+		"publisher": "Marvel Comics ",
+		"readDate": "Oct 15, 2017",
+		"series": "Ultimate Comics X-Men",
+		"title": "Mutants Behind Bars!",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/2f/2f_301225_0_UltimateXMenVol210.jpg"
+	},
+	{
+		"id": "12819815",
+		"issue": "11",
+		"publishDate": "Jul 2012",
+		"publisher": "Marvel Comics ",
+		"readDate": "Oct 15, 2017",
+		"series": "Ultimate Comics X-Men",
+		"title": "",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/1c/1c_303525_0_UltimateXMenVol211.jpg"
+	},
+	{
+		"id": "12819816",
+		"issue": "12",
+		"publishDate": "Jul 2012",
+		"publisher": "Marvel Comics ",
+		"readDate": "Oct 15, 2017",
+		"series": "Ultimate Comics X-Men",
+		"title": "",
+		"cover": "https://clzcomics.r.sizr.io/core/covers/lg/dc/dc_303526_0_UltimateXMenVol212.jpg"
 	}
 ]
